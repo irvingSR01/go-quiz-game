@@ -11,9 +11,9 @@ This project is created to learn some basics about Go programming language.
 # Details
 
 - [x] Quiz will be provided from csv file.
-- [ ] User should be able to change the default name "problems.csv" from flags.
+- [x] User should be able to change the default name "problems.csv" from flags.
 - [x] Format for cvs file should be question,answer.
-- [x] At the end of quiz, output need to display total of numbers of questions correct and total of questions.
+- [ ] At the end of quiz, output need to display total of numbers of questions correct and total of questions.
 
 > ℹ️ __"what 2+2, sir?",4"__ should be a valid input from csv file.
 
